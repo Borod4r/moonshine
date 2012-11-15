@@ -27,6 +27,14 @@ for which the syntax highlighting has been adapted:
   <tr>
     <td>Android Logcat</td>
 		<td align="center"><b>Yes</b></td>
+  </tr>
+  <tr>
+		<td>Diff</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+  <tr>
+		<td>File Status</td>
+		<td align="center"><b>Yes</b></td>
 	</tr>
 </table>
 
