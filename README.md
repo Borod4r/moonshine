@@ -3,6 +3,33 @@ Moonshine
 
 **Moonshine** is a dark color-scheme for IntelliJ IDEA 12.x based on "Dracula", just less bloody.
 
+Status
+------
+This table lists the languages (and other sections under `Preferences | Editor | Colors & Fonts`)
+for which the syntax highlighting has been adapted:
+<table>
+  <tr>
+		<th>Language/Section</th>
+		<th>Supported</th>
+	</tr>
+	<tr>
+		<td>General</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+  <tr>
+		<td>Console</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+	<tr>
+		<td>Java</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+  <tr>
+    <td>Android Logcat</td>
+		<td align="center"><b>Yes</b></td>
+	</tr>
+</table>
+
 Installation
 ------------
 ### Option 1: Install using "Import Settings..."
@@ -15,9 +42,9 @@ Installation
 
 1. Copy the `Moonshine.xml` file into your IntelliJ IDEA preferences color directory. It is typically in:  
   - Mac OS X:
-      `~/Library/Preferences/IntelliJIdea12/colors (IntelliJ IDEA)`
+      `~/Library/Preferences/IntelliJIdea12/colors`
   - Windows:
-      `Documents and Settings/<user>/.IntelliJIdea12/config/colors (IntelliJ IDEA)`
+      `Documents and Settings/<user>/.IntelliJIdea12/config/colors`
 2. Restart IntelliJ IDEA
 3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new color themes.
 
