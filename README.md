@@ -5,38 +5,20 @@ Moonshine
 
 Status
 ------
-This table lists the languages (and other sections under `Preferences | Editor | Colors & Fonts`)
+This section lists the languages (and other sections under `Preferences | Editor | Colors & Fonts`)
 for which the syntax highlighting has been adapted:
-<table>
-  <tr>
-		<th>Language/Section</th>
-		<th>Supported</th>
-	</tr>
-	<tr>
-		<td>General</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-  <tr>
-		<td>Console</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-	<tr>
-		<td>Java</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-  <tr>
-    <td>Android Logcat</td>
-		<td align="center"><b>Yes</b></td>
-  </tr>
-  <tr>
-		<td>Diff</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-  <tr>
-		<td>File Status</td>
-		<td align="center"><b>Yes</b></td>
-	</tr>
-</table>
+
++ General
+![preview](https://raw.github.com/PhannGor/moonshine/master/preview/general.png "General")
++ Console
+![preview](https://raw.github.com/PhannGor/moonshine/master/preview/console.png "Console")
++ Java
+![preview](https://raw.github.com/PhannGor/moonshine/master/preview/java.png "Java")
++ Android Logcat
+![preview](https://raw.github.com/PhannGor/moonshine/master/preview/logcat.png "Android LogCat")
++ Diff
+![preview](https://raw.github.com/PhannGor/moonshine/master/preview/diff.png "Diff")
++ File Status
 
 Installation
 ------------
