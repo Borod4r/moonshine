@@ -30,7 +30,7 @@ Installation
 
 ### Option 2: Manual installation
 
-1. Copy the `Moonshine.xml` file into your IntelliJ IDEA preferences color directory. It is typically in:  
+1. Copy the `Moonshine.icls` file into your IntelliJ IDEA preferences color directory. It is typically in:  
   - Mac OS X:
       `~/Library/Preferences/IntelliJIdea12/colors`
   - Windows:
